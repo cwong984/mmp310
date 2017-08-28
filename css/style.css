@@ -1,0 +1,21 @@
+#home {
+    color: darkorchid;
+    background-color: black;
+    font-size: 2em;
+    
+}
+a {
+    color:aliceblue;
+}
+a:hover { 
+color: darkgoldenrod;
+}
+a:active {
+color: darkorange;
+}
+
+
+ul a {
+color: aqua;
+
+}
